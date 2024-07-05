@@ -50,8 +50,8 @@ ScrollReveal().reveal('.home-contact h1, .about-img', { origin: 'left'});
 ScrollReveal().reveal('.home-contact p, .about-content', { origin: 'right' });
 
 /*======================= typed js =================== */
-const typed = new Typed('.multi-text', {
-    strings: ['Web Developer', 'Web Designer', 'Web Designer', 'Web Developer'],
+const typed = new Typed('.multiple-text', {
+    strings: ['Web Developer', 'Machine learning Engineer', 'Python Deveoper'],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
